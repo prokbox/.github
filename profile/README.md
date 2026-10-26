@@ -8,7 +8,7 @@ Free, open-source firmware for older iPods, built on [Rockbox](https://www.rockb
 |---|---|---|
 | **[ProkBox5g](https://github.com/prokbox/prokbox5g)** · [guide](https://prokbox.github.io/prokbox5g/) | iPod Video (5th generation and 5.5) | pre-release 0.8 |
 
-Builds for other models may follow.
+Builds for other models may follow, and the hardware references we write along the way (the PP5022 platform, the BCM2722 video processor, the WM8758 audio codec) will get repositories of their own.
 
 ## What every ProkBox build aims for
 
