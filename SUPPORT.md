@@ -5,4 +5,4 @@
 - **Something is broken:** [open an issue](https://github.com/prokbox/prokbox5g/issues/new/choose)
 - **Anything else:** prokbox.project@gmail.com
 
-ProkBox5g is not Apple software, so please ask us, not Apple. If your iPod won't start, hold **MENU** while it powers on to boot Apple's own software instead.
+ProkBox is not Apple software, so please ask us, not Apple. If your iPod won't start, hold **MENU** while it powers on to boot Apple's own software instead.

@@ -1,6 +1,6 @@
 # Security policy
 
-ProkBox5g runs offline on a music player, but bugs that could damage a device, corrupt its storage or put someone's files at risk still matter to us.
+ProkBox runs offline on a music player, but bugs that could damage a device, corrupt its storage or put someone's files at risk still matter to us.
 
 **Please don't open a public issue for a security problem.** Report it privately instead:
 
